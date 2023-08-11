@@ -1,3 +1,6 @@
 ﻿Hello that is text file
 Adding text from remote repository.
 Edited from branch feature2.
+
+
+logo alignment is centered.
