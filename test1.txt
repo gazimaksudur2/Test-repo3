@@ -8,5 +8,8 @@ Attempt to fix issue again.
 
 
 Edited from master branch and commit.
+Here I'm editing from feature branch.
+Again commiting from feature.
+
 Now commiting from default branch.
 But can you assure will it work..?
