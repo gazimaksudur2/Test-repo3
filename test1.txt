@@ -4,3 +4,4 @@ Edited from branch feature2.
 
 
 logo alignment is centered.
+Attempt to fix issue again.
