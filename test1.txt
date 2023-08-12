@@ -8,3 +8,4 @@ Attempt to fix issue again.
 
 
 Edited from master branch and commit.
+Here I'm editing from feature branch.
